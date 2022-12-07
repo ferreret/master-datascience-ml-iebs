@@ -1,0 +1,5 @@
+## Impacto en el uso de libretas de jupyter en la organización de un proyecto
+
+¿Qué ventajas puede tener el uso de jupyter como herramienta de desarrollo de código en un proyecto de data science, frente al desarrollo tradicional de software en un entorno de desarrollo integrado donde el software se escribe en bloques de texto monolítico, estructurado en múltiples ficheros de python organizados en carpetas, y se ejecuta secuencialmente?. ¿Puede que el uso de jupyter suponga también alguna desventaja o problemas a la hora de gestionar un proyecto? Adicionalmente al material visto en clase, puedes realizar una labor de investigación en internet buscando opiniones en foros y blogs con un espíritu crítico.
+
+**Objetivo de la actividad**: Identifica cuáles son las principales ventajas y desventajas que jupyter puede aportar con su modelo de desarrollo. Puedes abordarlo desde el punto de vista de la gestión de proyecto, colaboración, etc.

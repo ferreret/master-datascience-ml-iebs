@@ -1,0 +1,31 @@
+{
+    "id": "B30A9589",
+    "path": "/media/nicolas/DATA1/Trainning/Master IEBS/Master en Data Science y Big Data/Modulo_01_Intro_lenguajes_programacion/Clase_3_Fundamentos_R/RStudioProjects/PrimeraClaseR/intro_r.Rmd",
+    "project_path": "intro_r.Rmd",
+    "type": "r_markdown",
+    "hash": "2270505114",
+    "contents": "",
+    "dirty": false,
+    "created": 1670256481898.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "370,1",
+        "scrollLine": "356",
+        "rmdVisualMode": "false",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "1019:520",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1670263537,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1670264274536,
+    "read_only": false,
+    "read_only_alternatives": []
+}

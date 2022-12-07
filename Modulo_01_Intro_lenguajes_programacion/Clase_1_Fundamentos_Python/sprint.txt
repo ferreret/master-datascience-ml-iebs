@@ -1,0 +1,19 @@
+
+Ventajas de los jupyter notebooks frente al desarrollo tradicional de software
+
+- Permite la programación interactiva, al programar pequeños bloques de código y ejecutarlos al momento, puedes ir expermientando con los resultados, y realizar iteraciones en el código de forma fácil para testear diferentes configuraciones.
+
+- Es una herramienta muy visual, en un mismo notebook puedes mezclar código, los resultados del código, mostrar documentación, e incluso añadir imágenes y gráficos. Lo cual permite crear una historia del proyecto con el que estás trabajando.
+
+- La reproducción de la ejecución de código es sencilla, ya que se puede compartir el notebook con otros colaboradores para que reproduzcan los resultado, ya sea con nuevos datos o no. Si el notebook es online, la reproducción es directa, en caso de ser en locar con un entorno local (como por ejemplo con Anaconda), el requerimiento será que el entorno de desarrollo esté instalado.
+
+- Permite la impresión del notebook en html o en pdf, lo cual permite, de forma muy sencilla, compartir los resultados del notebook en una página web, si exportamos en html, o por ejemplo, en un gestor documental, envio por email, etc... en el caso de la impresión por pdf.
+
+Las desventajas que veo que tiene trabajar con notebooks son las siguientes
+
+- No es cómodo, como lo es con un IDE de programación, trabajar con bloques de código excesivamente largos.
+
+- A su vez, los notebooks no pueden ser muy largos, en mayor medida tienen que ser lo más concretos posible al caso que quieran resolver.
+
+
+
