@@ -529,6 +529,6 @@ summary(mtcars)
 Lo más habitual es leer datos desde un fichero para lo que podemos usar la función `read`, el formato de datos más común es CSV
 
 ```{r}
-df <- read.csv('datos/Titanic.csv')
+df <- read.csv('data/Titanic.csv')
 head(df)
 ```
